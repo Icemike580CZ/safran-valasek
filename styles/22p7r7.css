@@ -1245,7 +1245,7 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url(../../2p/2pf/2pfxjv.woff2) format("woff2")
+    src: url(../fonts/2pfxjv.woff2) format("woff2")
 }
 
 @font-face {
@@ -1253,7 +1253,7 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url(../../2p/2pf/2pfxjv.woff2) format("woff2");
+    src: url(../fonts/2pfxjv.woff2) format("woff2");
     size-adjust:91.7%;ascent-override:89%}
 
 @font-face {
