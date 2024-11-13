@@ -1181,7 +1181,7 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(../../1f/1fq/1fqpjm.woff2) format("woff2")
+    src: url(../fonts/1fqpjm.woff2) format("woff2")
 }
 
 @font-face {
@@ -1189,7 +1189,7 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(../../1f/1fq/1fqpjm.woff2) format("woff2");
+    src: url(../fonts/1fqpjm.woff2) format("woff2");
     size-adjust:91.7%;ascent-override:89%}
 
 @font-face {
@@ -1213,7 +1213,7 @@
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url(../../3q/3qc/3qcbpz.woff2) format("woff2")
+    src: url(../fonts/3qcbpz.woff2) format("woff2")
 }
 
 @font-face {
@@ -1221,7 +1221,7 @@
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url(../../3q/3qc/3qcbpz.woff2) format("woff2");
+    src: url(../fonts/3qcbpz.woff2) format("woff2");
     size-adjust:91.7%;ascent-override:89%}
 
 @font-face {
@@ -1277,7 +1277,7 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url(../../1y/1yn/1ynemp.woff2) format("woff2")
+    src: url(../fonts/1ynemp.woff2) format("woff2")
 }
 
 @font-face {
@@ -1285,7 +1285,7 @@
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url(../../1y/1yn/1ynemp.woff2) format("woff2");
+    src: url(../fonts/1ynemp.woff2) format("woff2");
     size-adjust:91.7%;ascent-override:89%}
 
 @font-face {
@@ -1341,7 +1341,7 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url(../../1f/1ff/1ffb4u.woff2) format("woff2")
+    src: url(../fonts/1ffb4u.woff2) format("woff2")
 }
 
 @font-face {
@@ -1349,7 +1349,7 @@
     font-weight: 900;
     font-style: normal;
     font-display: swap;
-    src: url(../../1f/1ff/1ffb4u.woff2) format("woff2");
+    src: url(../fonts/1ffb4u.woff2) format("woff2");
     size-adjust:91.7%;ascent-override:89%}
 
 @font-face {
@@ -2545,7 +2545,7 @@ body {
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(../../2n/2n6/2n6epi.woff2) format("woff2")
+    src: url(../fonts/2n6epi.woff2) format("woff2")
 }
 
 @font-face {
