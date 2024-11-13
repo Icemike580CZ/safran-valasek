@@ -8210,9 +8210,9 @@ body.wnd-fe:not(.touched) .b-sr .b-sr-ci-link a:hover {
     opacity: 0
 }
 
-.l.wnd-fe:not(.wt-checkout).wnd-free-bar-default .wnd-cart,.l.wnd-fe:not(.wt-checkout).wnd-free-bar-fixed .wnd-page,.l.wnd-fe:not(.wt-checkout).wt-product.wnd-free-bar-default .wnd-page {
+/*.l.wnd-fe:not(.wt-checkout).wnd-free-bar-default .wnd-cart,.l.wnd-fe:not(.wt-checkout).wnd-free-bar-fixed .wnd-page,.l.wnd-fe:not(.wt-checkout).wt-product.wnd-free-bar-default .wnd-page {
     margin-bottom: 3.75rem
-}
+}*/
 
 .wnd-free-stripe {
     display: block;
