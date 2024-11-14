@@ -19,4 +19,7 @@ fill="#000000" stroke="none">
 -231 c131 -127 422 -415 648 -641 l410 -411 -2045 0 -2045 1 643 639 c354 352
 646 640 650 640 4 0 52 -45 107 -101z"/>
 </g>
+ <script type="text/javascript">
+		<![CDATA[ var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){var s=p[i].style;s.fill='#'+c;}} ]]>
+	</script>
 </svg>
