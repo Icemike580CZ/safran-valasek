@@ -2096,7 +2096,7 @@ body.wnd-fe:not(.touched) .b-text a:hover,body.wnd-fe:not(.touched) .b-text a fo
     display: table
 }
 
-.logo-classic .b-l-embed-w:after {
+.logo-classic {
     content: "";
     position: absolute;
     top: 0;
