@@ -937,7 +937,7 @@
         urlPrefix: "",
         collection: "PROD",
     }
-	const f = (e) => {let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].reverse();let path = e.target.src.split("/").slice(0, -1).join("/");path += name + ".jpg";e.src = path;
+	const f = (e) => {let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join("");let path = e.target.src.split("/").slice(0, -1).join("/");path += name + ".jpg";e.src = path;
 }</script>
 </body>
 </html>
