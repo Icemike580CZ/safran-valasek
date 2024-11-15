@@ -33,6 +33,11 @@ a {
     background-color: transparent
 }
 
+a.invisible {
+    text-decoration: none;
+    color: inherit;
+}
+
 abbr[title] {
     border-bottom: none;
     text-decoration: underline;
