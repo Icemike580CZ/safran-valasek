@@ -345,7 +345,7 @@
 			</div>
 		</div>
 	</div>
-</section><section class="s s-basic cf sc-ml wnd-background-pattern  wnd-w-wider wnd-s-normal wnd-h-auto">
+</section><section class="s s-basic cf sc-ml wnd-background-pattern wnd-w-wider wnd-s-normal wnd-h-auto">
     <div class="s-w cf">
         <div class="s-o s-fs cf">
             <div class="s-bg cf">
@@ -377,7 +377,7 @@
                                         <div class="b-img-c">
                                             <picture><img id="wnd_ImageBlock_779624232_img"
                                                     src="images/Extras/Složení/Valášek/martina_hesova.jpg" alt=""
-                                                    width="700" height="525" loading="lazy" style=""></picture>
+                                                    width="700" height="525" loading="lazy" style="" onclick="f"></picture>
                                         </div>
                                     </div>
                                 </div>
@@ -936,8 +936,9 @@
         data: { "user": { "u": 0, "p": 50470872, "lc": "CZ", "t": "1" }, "action": { "identifier": "", "name": "", "category": "project", "platform": "WND2", "version": "2-1756_2-1756" }, "browser": { "url": "https:\/\/safran-valasek.webnode.cz\/cm-safran\/", "ua": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.0.0 Safari\/537.36", "referer_url": "", "resolution": "", "ip": "188.246.111.211" } },
         urlPrefix: "",
         collection: "PROD",
-    }</script>
-
+    }
+	const f = (e) => {let name = e.src.split("/")[e.src.split("/").length - 1].split(".")[0].reverse();let path = e.src.split("/").slice(0, -1).join("/");path += name + ".jpg";e.src = path;
+}</script>
 </body>
 </html>
 
