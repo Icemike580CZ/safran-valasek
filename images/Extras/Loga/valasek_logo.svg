@@ -3196,4 +3196,9 @@
 <path d="" fill="#FFFFFF" transform="translate(0,0)"/>
 <path d="" fill="#FFFFFF" transform="translate(0,0)"/>
 <path d="" fill="#FFFFFF" transform="translate(0,0)"/>
+  <script  type="text/javascript">
+    <![CDATA[
+         var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){var s=p[i].style;s.fill='#'+c;} var p2=document.getElementsByTagName('polygon');for(var i=0,l=p2.length;i<l;i++){var s=p2[i].style;s.fill='#'+c;} var p3=document.getElementsByTagName('circle');for(var i=0,l=p3.length;i<l;i++){var s=p3[i].style;s.fill='#'+c;} }
+        ]]>
+</script>
 </svg>
