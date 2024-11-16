@@ -27,4 +27,9 @@
 <path d="M0 0 C2.1875 2.0625 2.1875 2.0625 2.6875 5.625 C2.5225 6.759375 2.3575 7.89375 2.1875 9.0625 C-1.03393276 11.21012184 -2.0720467 11.623568 -5.8125 11.0625 C-7.6875 9.4375 -7.6875 9.4375 -8.8125 7.0625 C-8.8125 3.9375 -8.8125 3.9375 -7.8125 1.0625 C-4.76329103 -1.05500623 -3.52508391 -1.17502797 0 0 Z " fill="#373535" transform="translate(1549.8125,1146.9375)"/>
 <path d="M0 0 C3.0625 0.3125 3.0625 0.3125 5 1.4375 C6.0625 3.3125 6.0625 3.3125 5.9375 6.375 C5.0625 9.3125 5.0625 9.3125 2.0625 11.3125 C-1.25990324 10.9883631 -2.54526303 10.70473697 -4.9375 8.3125 C-5.1875 5.3125 -5.1875 5.3125 -4.9375 2.3125 C-2.9375 0.3125 -2.9375 0.3125 0 0 Z " fill="#373535" transform="translate(890.9375,982.6875)"/>
 <path d="" fill="#373535" transform="translate(0,0)"/>
+  <script  type="text/javascript">
+    <![CDATA[
+         var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){var s=p[i].style;s.fill='#'+c;} var p2=document.getElementsByTagName('polygon');for(var i=0,l=p2.length;i<l;i++){var s=p2[i].style;s.fill='#'+c;} var p3=document.getElementsByTagName('circle');for(var i=0,l=p3.length;i<l;i++){var s=p3[i].style;s.fill='#'+c;} }
+        ]]>
+</script>
 </svg>
