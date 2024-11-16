@@ -58,29 +58,29 @@
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 24px;
+  /*font-size: 24px;*/
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
-  line-height: 1;
-  font-weight: 300;
+  /*line-height: 1;
+  font-weight: 300;*/
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
 }
 
 #footer .footer-top .footer-info p {
-  font-size: 14px;
-  line-height: 24px;
+  /*font-size: 14px;
+  line-height: 24px;*/
   margin-bottom: 0;
-  font-family: "Playfair Display", serif;
+  /*font-family: "Playfair Display", serif;*/
   color: #fff;
 }
 
 #footer .footer-top .social-links a {
-  font-size: 18px;
+  /*font-size: 18px;*/
   display: inline-block;
   /*background: #28251f;*/
   color: #724fa1;
-  line-height: 1;
+  /*line-height: 1;*/
   padding: 8px 0;
   margin-right: 4px;
   border-radius: 50%;
@@ -97,7 +97,7 @@
 }
 
 #footer .footer-top h4 {
-  font-size: 16px;
+  /*font-size: 16px;*/
   font-weight: 600;
   color: #fff;
   position: relative;
@@ -117,8 +117,8 @@
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
   color: #724fa1;
-  font-size: 18px;
-  line-height: 1;
+  /*font-size: 18px;
+  line-height: 1;*/
 }
 
 #footer .footer-top .footer-links ul li {
@@ -135,7 +135,7 @@
   color: #724fa1;
   transition: 0.3s;
   display: inline-block;
-  line-height: 1;
+  /*line-height: 1;*/
 }
 
 #footer .footer-top .footer-links ul a:hover {
