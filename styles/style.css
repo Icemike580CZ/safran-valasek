@@ -161,3 +161,7 @@
   position: sticky;
   z-index: 3;
 }
+
+.si-c a {
+  color: hsla(0,0%,100%,.5);
+}
