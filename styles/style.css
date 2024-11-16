@@ -79,7 +79,7 @@
   font-size: 18px;
   display: inline-block;
   /*background: #28251f;*/
-  color: #000;
+  color: #724fa1;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -92,7 +92,7 @@
 
 #footer .footer-top .social-links a:hover {
   /*background: #cda45e;*/
-  color: #000;
+  color: #724fa1;
   text-decoration: none;
 }
 
@@ -132,7 +132,7 @@
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #000;
+  color: #724fa1;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
