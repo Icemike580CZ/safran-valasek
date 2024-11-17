@@ -47,7 +47,8 @@
 	<link href="styles/bootstrap.min.css" rel="stylesheet">
 	<link href="styles/bootstrap-icons.css" rel="stylesheet">
 	<link href="styles/style.css" rel="stylesheet">
-	<link href="styles/boxicons.min.css" rel="stylesheet">
+	<!--<link href="styles/boxicons.min.css" rel="stylesheet">-->
+	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 	<link rel="stylesheet" href="styles/3yivy4.css" media="screen and (min-width:37.5em)">
 	<link rel="stylesheet" href="styles/0xb2eo.css" data-wnd_color_scheme_file="">
 	<link rel="stylesheet" href="styles/4__hmg.css" data-wnd_color_scheme_desktop_file=""
@@ -1264,8 +1265,10 @@
 																					</div>
 																			</div>-->
 																			<div class="b b-text cf">
+																				<div class="b-img b-img-default b b-s cf wnd-orientation-square wnd-type-image"
+																				style="font-size:24px;width:1.5rem" id="wnd_ImageBlock_107345845"><i class="bx bxl-instagram"></i></div>
 																				<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf">
-																					<h3><i class="bx bxl-instagram"></i>
+																					<h3>
 																						<font
 																							class="wnd-font-size-110 wsw-39"
 																							data-o-w="false">@cm_safran
@@ -1335,10 +1338,8 @@
 					<div class="s-bg-l wnd-background-pattern  bgpos-center-center bgatt-scroll"
 						style="background-image:url('images/Extras/Mandatory/17ib2g.png')"></div>
 					<div class="copyright">
-						© Copyright <strong><span><a
-									href="https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=773665&amp;typ=PLATNY"
-									class="invisible" target="_blank">Cimbálová muzika Valášek Zlín, z.
-									s.</a></span></strong>. <br> Všechna práva vyhrazena
+						© Copyright <strong><span class="invisible a">Cimbálová muzika Valášek Zlín, z.
+									s.</span></strong>. <br> Všechna práva vyhrazena
 					</div>
 				</div>
 			</footer>
@@ -1406,7 +1407,7 @@
 			urlPrefix: "",
 			collection: "PROD",
 		}
-		const f = (e) => {
+		function f(e) {
 			let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join(""); let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; path += name + ".jpg"; e.target.src = path;
 		}</script>
 </body>
