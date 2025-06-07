@@ -562,7 +562,7 @@
 																	<font class="wsw-39 wnd-font-size-120"><strong><a
 																				href="https://zl.patriotmagazin.cz/martina-hesova-neunavna-zakladatelka-mladeznickych-cimbalovek-ve-zline"
 																				class="invisible" tabIndex="-1"
-																				target="_blank" rel="nofollow">Martina
+																				target="_blank" rel="nofollow" id="mh">Martina
 																				Hešová</a></strong>
 																	</font>
 																</p>
@@ -1495,7 +1495,7 @@
 			collection: "PROD",
 		}
 		function f(e) {
-			let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join(""); let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; path += name + ".jpg"; e.target.src = path;
+			let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join(""); let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; path += name + ".jpg"; e.target.src = path; document.getElementById("mh").innerText = document.getElementById("mh").innerText.split("").reverse().join("");
 		}</script>
 </body>
 
