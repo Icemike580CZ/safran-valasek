@@ -1,0 +1,735 @@
+{
+    "variant": "photoFeed",
+    "gridCount": 3,
+    "id": "wnd_PhotoGalleryBlock_856233362",
+    "items": [
+      {
+        "id": 200000113,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1365",
+        "size": {
+          "width": 2048,
+          "height": 1365
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000117,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "1785:958",
+        "size": {
+          "width": 1785,
+          "height": 958
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+              },
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+              },
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
+              },
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
+              },
+              {
+                "width": 1785,
+                "height": 958,
+                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000115,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1365",
+        "size": {
+          "width": 2048,
+          "height": 1365
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000114,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:922",
+        "size": {
+          "width": 2048,
+          "height": 922
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
+              },
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
+              },
+              {
+                "width": 2048,
+                "height": 922,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000118,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "1600:1200",
+        "size": {
+          "width": 1600,
+          "height": 1200
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+              },
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+              },
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
+              },
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
+              },
+              {
+                "width": 1600,
+                "height": 1200,
+                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000125,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1537",
+        "size": {
+          "width": 2048,
+          "height": 1537
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1537,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1537,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1279,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1537,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1537,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1537,
+                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000124,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "720:479",
+        "size": {
+          "width": 720,
+          "height": 479
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
+              },
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
+              },
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
+              },
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
+              },
+              {
+                "width": 720,
+                "height": 479,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000127,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1365",
+        "size": {
+          "width": 2048,
+          "height": 1365
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1365,
+                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000126,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1366",
+        "size": {
+          "width": 2048,
+          "height": 1366
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000128,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1366",
+        "size": {
+          "width": 2048,
+          "height": 1366
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000135,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1366",
+        "size": {
+          "width": 2048,
+          "height": 1366
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1366,
+                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000134,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1293",
+        "size": {
+          "width": 2048,
+          "height": 1293
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
+              },
+              {
+                "width": 2048,
+                "height": 1293,
+                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000133,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "1080:810",
+        "size": {
+          "width": 1080,
+          "height": 810
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
+              },
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
+              },
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
+              }
+            ]
+          },
+          {
+            "mimeType": "image/webp",
+            "sizes": [
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
+              },
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
+              },
+              {
+                "width": 1080,
+                "height": 810,
+                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
