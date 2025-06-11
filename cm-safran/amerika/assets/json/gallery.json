@@ -5,7 +5,7 @@
     "items": [
       {
         "id": 200000113,
-        "title": "",
+        "title": "Chicago",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -13,27 +13,27 @@
           "height": 2048
         },
         "img": {
-          "mimeType": "image/jpg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago.jpg"
         },
         "sources": [
           {
-            "mimeType": "image/jpg",
+            "mimeType": "image/jpeg",
             "sizes": [
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago.jpg"
               },
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago.jpg"
               },
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago.jpg"
               }
             ]
           }
@@ -41,7 +41,7 @@
       },
       {
         "id": 200000117,
-        "title": "",
+        "title": "Cloud Gate - Chicago (The Bean)",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -50,26 +50,26 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago2.jpg"
         },
         "sources": [
           {
-            "mimeType": "image/jpg",
+            "mimeType": "image/jpeg",
             "sizes": [
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago2.jpg"
               },
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago2.jpg"
               },
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago2.jpg"
               }
             ]
           }
@@ -77,7 +77,7 @@
       },
       {
         "id": 200000115,
-        "title": "",
+        "title": "Cloud Gate with the skyline of Chicago",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -85,8 +85,8 @@
           "height": 2048
         },
         "img": {
-          "mimeType": "image/jpg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago4.jpg"
         },
         "sources": [
           {
@@ -95,17 +95,17 @@
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago4.jpg"
               },
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago4.jpg"
               },
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/City/chicago4.jpg"
               }
             ]
           }
@@ -113,7 +113,7 @@
       },
       {
         "id": 200000114,
-        "title": "",
+        "title": "Stunning view from boat",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -122,43 +122,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000118,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-                "width": 2048,
-                "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Boat/lod2.jpg"
         },
         "sources": [
           {
@@ -167,17 +131,53 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Boat/lod2.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Boat/lod2.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Boat/lod2.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000118,
+        "title": "Crystal house - Chicago",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_venku.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_venku.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_venku.jpg"
+              },
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_venku.jpg"
               }
             ]
           }
@@ -185,7 +185,7 @@
       },
       {
         "id": 200000125,
-        "title": "",
+        "title": "Společná fotka na plese",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -194,7 +194,7 @@
         },
         "img": {
           "mimeType": "image/heiuc",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
         },
         "sources": [
           {
@@ -203,37 +203,37 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               }
             ]
           },
           {
-            "mimeType": "image/jpg",
+            "mimeType": "image/jpeg",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna.jpg"
               }
             ]
           }
@@ -241,7 +241,7 @@
       },
       {
         "id": 200000124,
-        "title": "",
+        "title": "Hraní na plese",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -250,7 +250,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
         },
         "sources": [
           {
@@ -259,37 +259,37 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               }
             ]
           },
           {
-            "mimeType": "image/jpg",
+            "mimeType": "image/jpeg",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples.jpg"
               }
             ]
           }
