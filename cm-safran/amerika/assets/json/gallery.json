@@ -10,7 +10,7 @@
         "aspectRatio": "1536:2048",
         "size": {
           "width": 1536,
-          "height": 2048,
+          "height": 2048
         },
         "img": {
           "mimeType": "image/jpg",
@@ -46,7 +46,7 @@
         "aspectRatio": "2048:1536",
         "size": {
           "width": 2048,
-          "height": 1536,
+          "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
@@ -82,7 +82,7 @@
         "aspectRatio": "1536:2048",
         "size": {
           "width": 1536,
-          "height": 2048,
+          "height": 2048
         },
         "img": {
           "mimeType": "image/jpg",
@@ -118,7 +118,7 @@
         "aspectRatio": "2048:1536",
         "size": {
           "width": 2048,
-          "height": 1536,
+          "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
@@ -154,7 +154,7 @@
         "aspectRatio": "2048:1536",
         "size": {
                 "width": 2048,
-                "height": 1536,
+                "height": 1536
         },
         "img": {
           "mimeType": "image/jpg",
@@ -190,7 +190,7 @@
         "aspectRatio": "2048:1536",
         "size": {
                 "width": 2048,
-                "height": 1536,
+                "height": 1536
         },
         "img": {
           "mimeType": "image/heiuc",
@@ -246,7 +246,7 @@
         "aspectRatio": "2048:1536",
         "size": {
                 "width": 2048,
-                "height": 1536,
+                "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
@@ -293,4 +293,6 @@
               }
             ]
           }
+        ]
+      }]
   }
