@@ -13,27 +13,27 @@
           "height": 2048,
         },
         "img": {
-          "mimeType": "image/heic",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
+          "mimeType": "image/jpg",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
         },
         "sources": [
           {
-            "mimeType": "image/heic",
+            "mimeType": "image/jpg",
             "sizes": [
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
               },
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
               },
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.jpg"
               }
             ]
           }
@@ -50,26 +50,26 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
         },
         "sources": [
           {
-            "mimeType": "image/heic",
+            "mimeType": "image/jpg",
             "sizes": [
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
               },
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
               },
               {
           "width": 2048,
           "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.jpg"
               }
             ]
           }
@@ -85,8 +85,8 @@
           "height": 2048,
         },
         "img": {
-          "mimeType": "image/heic",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
+          "mimeType": "image/jpg",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
         },
         "sources": [
           {
@@ -95,17 +95,17 @@
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
               },
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
               },
               {
           "width": 1536,
           "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.jpg"
               }
             ]
           }
@@ -122,26 +122,26 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
         },
         "sources": [
           {
-            "mimeType": "image/heic",
+            "mimeType": "image/jpg",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.jpg"
               }
             ]
           }
@@ -157,8 +157,8 @@
                 "height": 1536,
         },
         "img": {
-          "mimeType": "image/heic",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
+          "mimeType": "image/jpg",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
         },
         "sources": [
           {
@@ -167,17 +167,17 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.jpg"
               }
             ]
           }
@@ -194,7 +194,7 @@
         },
         "img": {
           "mimeType": "image/heiuc",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
         },
         "sources": [
           {
@@ -203,37 +203,37 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               }
             ]
           },
           {
-            "mimeType": "image/heic",
+            "mimeType": "image/jpg",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.jpg"
               }
             ]
           }
@@ -250,7 +250,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
         },
         "sources": [
           {
@@ -259,37 +259,37 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               }
             ]
           },
           {
-            "mimeType": "image/heic",
+            "mimeType": "image/jpg",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               },
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.jpg"
               }
             ]
           }
