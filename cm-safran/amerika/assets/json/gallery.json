@@ -1,59 +1,39 @@
 {
     "variant": "photoFeed",
     "gridCount": 3,
-    "id": "wnd_PhotoGalleryBlock_856233362",
+    "id": "galerie_chicago",
     "items": [
       {
         "id": 200000113,
         "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1365",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
         "size": {
-          "width": 2048,
-          "height": 1365
+          "width": 1536,
+          "height": 2048,
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+          "mimeType": "image/heic",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/heic",
             "sizes": [
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+                "width": 1536,
+                 "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
               },
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
+                "width": 1536,
+                 "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
               },
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola.webp"
+                "width": 1536,
+                 "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago.heic"
               }
             ]
           }
@@ -63,53 +43,33 @@
         "id": 200000117,
         "title": "",
         "orientation": "landscape",
-        "aspectRatio": "1785:958",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 1785,
-          "height": 958
+          "width": 2048,
+          "height": 1536,
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/heic",
             "sizes": [
               {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+          "width": 2048,
+          "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
               },
               {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
+          "width": 2048,
+          "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
               },
               {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
-              },
-              {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
-              },
-              {
-                "width": 1785,
-                "height": 958,
-                "src": "https://safranvalasek.live/images/Šafrán/straznice.webp"
+          "width": 2048,
+          "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago2.heic"
               }
             ]
           }
@@ -118,54 +78,34 @@
       {
         "id": 200000115,
         "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1365",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
         "size": {
-          "width": 2048,
-          "height": 1365
+          "width": 1536,
+          "height": 2048,
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+          "mimeType": "image/heic",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+          "width": 1536,
+          "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
               },
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
+          "width": 1536,
+          "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
               },
               {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola_kacka.webp"
+          "width": 1536,
+          "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Město/chicago4.heic"
               }
             ]
           }
@@ -175,53 +115,33 @@
         "id": 200000114,
         "title": "",
         "orientation": "landscape",
-        "aspectRatio": "2048:922",
+        "aspectRatio": "2048:1536",
         "size": {
           "width": 2048,
-          "height": 922
+          "height": 1536,
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/heic",
             "sizes": [
               {
                 "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
               },
               {
                 "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
               },
               {
                 "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
-              },
-              {
-                "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
-              },
-              {
-                "width": 2048,
-                "height": 922,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka_malenovice.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Loď/lod2.heic"
               }
             ]
           }
@@ -231,53 +151,33 @@
         "id": 200000118,
         "title": "",
         "orientation": "landscape",
-        "aspectRatio": "1600:1200",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 1600,
-          "height": 1200
+                "width": 2048,
+                "height": 1536,
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+          "mimeType": "image/heic",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
               },
               {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
               },
               {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
-              },
-              {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
-              },
-              {
-                "width": 1600,
-                "height": 1200,
-                "src": "https://safranvalasek.live/images/Šafrán/fotka1maj.webp"
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_venku.heic"
               }
             ]
           }
@@ -287,14 +187,14 @@
         "id": 200000125,
         "title": "",
         "orientation": "landscape",
-        "aspectRatio": "2048:1537",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 2048,
-          "height": 1537
+                "width": 2048,
+                "height": 1536,
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+          "mimeType": "image/heiuc",
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
         },
         "sources": [
           {
@@ -302,38 +202,38 @@
             "sizes": [
               {
                 "width": 2048,
-                "height": 1537,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               },
               {
                 "width": 2048,
-                "height": 1537,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               },
               {
                 "width": 2048,
-                "height": 1279,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               }
             ]
           },
           {
-            "mimeType": "image/webp",
+            "mimeType": "image/heic",
             "sizes": [
               {
                 "width": 2048,
-                "height": 1537,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               },
               {
                 "width": 2048,
-                "height": 1537,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               },
               {
                 "width": 2048,
-                "height": 1537,
-                "src": "https://safranvalasek.live/images/Šafrán/fotkaskolka.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples_spoelcna.heic"
               }
             ]
           }
@@ -343,70 +243,14 @@
         "id": 200000124,
         "title": "",
         "orientation": "landscape",
-        "aspectRatio": "720:479",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 720,
-          "height": 479
+                "width": 2048,
+                "height": 1536,
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
-              },
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
-              },
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
-              },
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
-              },
-              {
-                "width": 720,
-                "height": 479,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_park.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000127,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1365",
-        "size": {
-          "width": 2048,
-          "height": 1365
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+          "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
         },
         "sources": [
           {
@@ -414,322 +258,39 @@
             "sizes": [
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               },
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               },
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.jpg"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               }
             ]
           },
           {
-            "mimeType": "image/webp",
+            "mimeType": "image/heic",
             "sizes": [
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               },
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               },
               {
                 "width": 2048,
-                "height": 1365,
-                "src": "https://safranvalasek.live/images/Šafrán/spolecna_skola2.webp"
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/asets/images/Chicago/Ples/ples.heic"
               }
             ]
           }
-        ]
-      },
-      {
-        "id": 200000126,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1366",
-        "size": {
-          "width": 2048,
-          "height": 1366
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba3.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000128,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1366",
-        "size": {
-          "width": 2048,
-          "height": 1366
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba2.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000135,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1366",
-        "size": {
-          "width": 2048,
-          "height": 1366
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1366,
-                "src": "https://safranvalasek.live/images/Šafrán/vystoupeni_svatba.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000134,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1293",
-        "size": {
-          "width": 2048,
-          "height": 1293
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
-              },
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
-              },
-              {
-                "width": 2048,
-                "height": 1293,
-                "src": "https://safranvalasek.live/images/Šafrán/gympl.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000133,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "1080:810",
-        "size": {
-          "width": 1080,
-          "height": 810
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
-              },
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
-              },
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.jpg"
-              }
-            ]
-          },
-          {
-            "mimeType": "image/webp",
-            "sizes": [
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
-              },
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
-              },
-              {
-                "width": 1080,
-                "height": 810,
-                "src": "https://safranvalasek.live/images/Šafrán/travnicky.webp"
-              }
-            ]
-          }
-        ]
-      }
-    ]
   }
