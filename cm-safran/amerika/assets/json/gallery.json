@@ -4,7 +4,7 @@
     "id": "galerie_chicago",
     "items": [
       {
-        "id": 200000113,
+        "id": 200000126,
         "title": "První kontakt s centrem Chicaga",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "id": 200000117,
+        "id": 200000130,
         "title": "Cloud Gate - (The Bean) alias Fazole",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "id": 200000115,
+        "id": 200000128,
         "title": "Cloud Gate s výhledem na mrakodrapy Chicaga",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "id": 200000114,
+        "id": 200000127,
         "title": "Panoramatická fotka z lodi",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
@@ -148,7 +148,7 @@
         ]
       },
       {
-        "id": 200000118,
+        "id": 200000131,
         "title": "Crystal house - Chicago (místo konání plesu)",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
@@ -184,7 +184,7 @@
         ]
       },
       {
-        "id": 200000125,
+        "id": 200000138,
         "title": "Společná fotka z plesu",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "id": 200000124,
+        "id": 200000137,
         "title": "Hračka na plese",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
