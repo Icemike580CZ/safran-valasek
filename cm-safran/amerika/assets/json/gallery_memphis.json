@@ -83,7 +83,7 @@
       },
       {
         "id": 200000140,
-        "title": "",
+        "title": "Dům Elvise Presleyho",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -109,7 +109,7 @@
       },
       {
         "id": 200000144,
-        "title": "",
+        "title": "Memphis - domov Blues",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -135,7 +135,7 @@
       },
       {
         "id": 200000151,
-        "title": "",
+        "title": "Volná chvilka v Memphisu",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -161,12 +161,12 @@
       },
       {
         "id": 200000150,
-        "title": "",
-        "orientation": "landscape",
+        "title": "Graffiti v centru Memphisu",
+        "orientation": "portrait",
         "aspectRatio": "2048:1536",
         "size": {
-                "width": 2048,
-                "height": 1536
+                "width": 1536,
+                "height": 2048
         },
         "img": {
           "mimeType": "image/jpeg",
@@ -177,8 +177,8 @@
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 2048,
-                "height": 1536,
+                "width": 1536,
+                "height": 2048,
                 "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Graceland_Memphis/Memphis/memphis6.jpg"
               }
             ]
