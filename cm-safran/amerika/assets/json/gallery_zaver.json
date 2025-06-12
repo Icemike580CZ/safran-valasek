@@ -55,6 +55,32 @@
           }
         ]
       },
+            {
+        "id": 200000144,
+        "title": "Pozdrav z Nashvilu",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+                "width": 1536,
+                "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_nashvile.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/otrokovice.jpg"
+              }
+            ]
+          }
+        ]
+      },
       {
         "id": 200000141,
         "title": "Pozdrav z Gracelandu",
