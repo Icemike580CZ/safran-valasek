@@ -5,42 +5,16 @@
     "items": [
       {
         "id": 200000139,
-        "title": "",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
-        "size": {
-          "width": 1536,
-          "height": 2048
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 1536,
-                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000143,
-        "title": "",
+        "title": "Dolly Parton's Stampede - skupinová fotka č.1",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
-          "width": 2048,
+           "width": 2048,
           "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede1.jpg"
         },
         "sources": [
           {
@@ -49,7 +23,33 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede1.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000143,
+        "title": "Dolly Parton's Stampede - skupinová fotka č.2",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede2.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede2.jpg"
               }
             ]
           }
@@ -57,16 +57,94 @@
       },
       {
         "id": 200000141,
-        "title": "",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
+        "title": "Dolly Parton's Stampede - představení",
+        "orientation": "landscape",
+        "aspectRatio": "2728:1536",
         "size": {
-          "width": 1536,
-          "height": 2048
+          "width": 2728,
+          "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede4.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2728,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede4.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000140,
+        "title": "Téměř každodenní nakládání",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/gatlinburg3.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/gatlinburg3.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000144,
+        "title": "Místní obyvatel Great Smoky Mountains",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/meda2.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/meda2.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000151,
+        "title": "Menší procházka lesem č. 1",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+                "width": 1536,
+                "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les5.jpg"
         },
         "sources": [
           {
@@ -75,85 +153,7 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000140,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-          "width": 2048,
-          "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000144,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-                "width": 2048,
-                "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000151,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-                "width": 2048,
-                "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les5.jpg"
               }
             ]
           }
@@ -161,25 +161,25 @@
       },
       {
         "id": 200000150,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
+        "title": "Menší procházka lesem č. 2",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
         "size": {
-                "width": 2048,
-                "height": 1536
+                "width": 1536,
+                "height": 2048
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
               }
             ]
           }
