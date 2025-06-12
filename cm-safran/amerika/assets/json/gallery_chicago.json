@@ -1,7 +1,7 @@
 {
     "variant": "photoFeed",
     "gridCount": 3,
-    "id": "galerie_chicago",
+    "id": "gallery_chicago",
     "items": [
       {
         "id": 200000126,
@@ -41,7 +41,7 @@
       },
       {
         "id": 200000130,
-        "title": "Cloud Gate - (The Bean) alias Fazole",
+        "title": "Cloud Gate (The Bean) - alias Fazole",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -77,7 +77,7 @@
       },
       {
         "id": 200000128,
-        "title": "Cloud Gate s výhledem na mrakodrapy Chicaga",
+        "title": "Cloud Gate s výhledem na mrakodrapy",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -193,7 +193,7 @@
                 "height": 1536
         },
         "img": {
-          "mimeType": "image/heiuc",
+          "mimeType": "image/jpeg",
           "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Chicago/Ples/ples_spolecna3.jpg"
         },
         "sources": [

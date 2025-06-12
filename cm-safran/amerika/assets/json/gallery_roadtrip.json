@@ -1,0 +1,188 @@
+{
+    "variant": "photoFeed",
+    "gridCount": 3,
+    "id": "gallery_roadtrip",
+    "items": [
+      {
+        "id": 200000139,
+        "title": "",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+          "width": 1536,
+          "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1536,
+                 "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000143,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000141,
+        "title": "",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+          "width": 1536,
+          "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000140,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000144,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000151,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000150,
+        "title": "",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/"
+              }
+            ]
+          }
+        ]
+      }]
+  }
