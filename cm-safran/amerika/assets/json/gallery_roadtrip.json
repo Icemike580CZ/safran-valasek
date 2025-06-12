@@ -188,7 +188,33 @@
       },
       {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
+        "title": "Příjezd do Nashville",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nash_vchod_muzeum.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nash_vchod_muzeum.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000150,
+        "title": "Interiér z obchodu muzea",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -197,7 +223,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_muzeum.jpg"
         },
         "sources": [
           {
@@ -206,7 +232,33 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_muzeum.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000150,
+        "title": "Jedna z ulic vedoucí na Broadway",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+                "width": 1536,
+                "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_broadway1.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_broadway1.jpg"
               }
             ]
           }
@@ -215,7 +267,7 @@
       },
       {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
+        "title": "Broadway plný barů a hudby",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -224,7 +276,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_broadway4.jpg"
         },
         "sources": [
           {
@@ -233,7 +285,7 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill_broadway4.jpg"
               }
             ]
           }
@@ -242,7 +294,7 @@
       },
       {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
+        "title": "Cesta z prvního dne v Nashvillu do garáží",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -251,7 +303,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill4.jpg"
         },
         "sources": [
           {
@@ -260,7 +312,7 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/nashvill4.jpg"
               }
             ]
           }
@@ -269,25 +321,25 @@
       },
       {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
+        "title": "Loď Generál Jackson",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
         "size": {
-                "width": 1536,
-                "height": 2048
+                "width": 2048,
+                "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/genjackson0.jpg"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 1536,
-                "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/genjackson0.jpg"
               }
             ]
           }
@@ -296,34 +348,33 @@
       },
       {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
+        "title": "Společná fotka z kapelou z Gen. Jackson",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
         "size": {
-                "width": 1536,
-                "height": 2048
+                "width": 2048,
+                "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/genjackson5.jpg"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 1536,
-                "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/genjackson5.jpg"
               }
             ]
           }
         ]
-      
       },
-      {
+            {
         "id": 200000150,
-        "title": "Menší procházka lesem č. 2",
+        "title": "Budova Grand Ole Opry",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -332,7 +383,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/opry5.jpg"
         },
         "sources": [
           {
@@ -341,7 +392,33 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/Great Smokey Mts/les1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/opry5.jpg"
+              }
+            ]
+          }
+        ]
+      },
+                  {
+        "id": 200000150,
+        "title": "Vystoupení v Grand Ole Opry",
+        "orientation": "portrait",
+        "aspectRatio": "1242:2208",
+        "size": {
+                "width": 1242,
+                "height": 2208
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/opry1.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1242,
+                "height": 2208,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Nashville/opry1.jpg"
               }
             ]
           }
