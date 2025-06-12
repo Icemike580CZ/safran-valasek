@@ -5,25 +5,25 @@
     "items": [
       {
         "id": 200000139,
-        "title": "",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
+        "title": "Orloj v areálu",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 1536,
-          "height": 2048
+            "width": 2048,
+            "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapidsorloj1.jpg"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 1536,
-                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+              "width": 2048,
+              "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_orloj1.jpg"
               }
             ]
           }
@@ -31,7 +31,7 @@
       },
       {
         "id": 200000143,
-        "title": "",
+        "title": "Jak daleko že to jsme?",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -40,7 +40,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_satna2.jpg"
         },
         "sources": [
           {
@@ -49,7 +49,7 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_satna2.jpg"
               }
             ]
           }
@@ -57,16 +57,94 @@
       },
       {
         "id": 200000141,
-        "title": "",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
+        "title": "Před vystoupením",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
         "size": {
-          "width": 1536,
-          "height": 2048
+          "width": 2048,
+          "height": 1536
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_vystoupeni.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_vystoupeni.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000140,
+        "title": "Společná fotka po vystoupení č.1",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_vystoupeni2.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/rapids_vystoupeni2.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000144,
+        "title": "Společná fotka po vystoupení č.2 (i s našimi řidiči 🚐)",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+                "width": 2048,
+                "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/sponzor_rapids1.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2048,
+                "height": 1536,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/sponzor_rapids1.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000151,
+        "title": "Babičino místo (s česko-americkou výslovností 😁)",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
+        "size": {
+                "width": 1536,
+                "height": 2048
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/czsk_museum_prohlidka3.jpg"
         },
         "sources": [
           {
@@ -75,85 +153,7 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000140,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-          "width": 2048,
-          "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000144,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-                "width": 2048,
-                "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000151,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
-        "size": {
-                "width": 2048,
-                "height": 1536
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/czsk_museum_prohlidka3.jpg"
               }
             ]
           }
@@ -161,25 +161,25 @@
       },
       {
         "id": 200000150,
-        "title": "",
-        "orientation": "landscape",
-        "aspectRatio": "2048:1536",
+        "title": "Most sloužící jako vjezd do části areálu",
+        "orientation": "portrait",
+        "aspectRatio": "1536:2048",
         "size": {
-                "width": 2048,
-                "height": 1536
+                "width": 1536,
+                "height": 2048
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/czsk_museum_vjezd.jpg"
         },
         "sources": [
           {
             "mimeType": "image/jpeg",
             "sizes": [
               {
-                "width": 2048,
-                "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/"
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Cedar_Rapids/czsk_museum_vjezd.jpg"
               }
             ]
           }
