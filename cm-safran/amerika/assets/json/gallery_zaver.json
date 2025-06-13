@@ -14,7 +14,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_Chicago.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.jpg"
         },
         "sources": [
           {
@@ -23,7 +23,7 @@
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_Chicago.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.jpg"
               }
             ]
           }
@@ -31,7 +31,7 @@
       },
       {
         "id": 200000143,
-        "title": "Pozdrav ze plesu",
+        "title": "Pozdrav z plesu",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -40,7 +40,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_ples.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.jpg"
         },
         "sources": [
           {
@@ -49,7 +49,7 @@
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.jpg"
               }
             ]
           }
@@ -57,7 +57,7 @@
       },
             {
         "id": 200000144,
-        "title": "Pozdrav z Nashvilu",
+        "title": "Pozdrav z Nashvillu",
         "orientation": "portrait",
         "aspectRatio": "1536:2048",
         "size": {
@@ -66,7 +66,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_nashvile.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.jpg"
         },
         "sources": [
           {
@@ -75,7 +75,7 @@
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_nashvile.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.jpg"
               }
             ]
           }
@@ -84,32 +84,6 @@
       {
         "id": 200000141,
         "title": "Pozdrav z Gracelandu",
-        "orientation": "portrait",
-        "aspectRatio": "1536:2048",
-        "size": {
-          "width": 1536,
-          "height": 2048
-        },
-        "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_prechod1.jpg"
-        },
-        "sources": [
-          {
-            "mimeType": "image/jpeg",
-            "sizes": [
-              {
-                "width": 1536,
-                "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_prechod1.jpg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 200000140,
-        "title": "Pozdrav ze Cedar Rapids česko-slovenského muzea",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
@@ -118,7 +92,33 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_cedar.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.jpg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 1536,
+                "height": 2048,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000140,
+        "title": "Pozdrav ze Cedar Rapids (Česko-slovenského muzea)",
+        "orientation": "landscape",
+        "aspectRatio": "2048:1536",
+        "size": {
+          "width": 2048,
+          "height": 1536
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar.jpg"
         },
         "sources": [
           {
@@ -127,7 +127,7 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/sponzor_cedar.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar.jpg"
               }
             ]
           }
@@ -144,7 +144,7 @@
         },
         "img": {
           "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/otrokovice.jpg"
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.jpg"
         },
         "sources": [
           {
@@ -153,7 +153,7 @@
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponzoři/otrokovice.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.jpg"
               }
             ]
           }
