@@ -30,8 +30,34 @@
         ]
       },
       {
-        "id": 200000143,
+        "id": 200000142,
         "title": "Dolly Parton's Stampede - skupinová fotka č.2",
+        "orientation": "landscape",
+        "aspectRatio": "2400:1800",
+        "size": {
+          "width": 2400,
+          "height": 1800
+        },
+        "img": {
+          "mimeType": "image/jpeg",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede_spolecna.jpeg"
+        },
+        "sources": [
+          {
+            "mimeType": "image/jpeg",
+            "sizes": [
+              {
+                "width": 2400,
+                "height": 1800,
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Roadtrip/dp_stampede_spolecna.jpeg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 200000143,
+        "title": "Dolly Parton's Stampede - skupinová fotka č.3",
         "orientation": "landscape",
         "aspectRatio": "2048:1536",
         "size": {
