@@ -13,17 +13,17 @@
           "height": 2048
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_chicago.webp"
               }
             ]
           }
@@ -39,17 +39,17 @@
           "height": 2048
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 1536,
                  "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_ples.webp"
               }
             ]
           }
@@ -65,17 +65,17 @@
                 "height": 2048
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_nashville.webp"
               }
             ]
           }
@@ -91,17 +91,17 @@
           "height": 1536
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 1536,
                 "height": 2048,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_prechod1.webp"
               }
             ]
           }
@@ -117,17 +117,17 @@
           "height": 1536
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar1.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar1.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 2048,
                 "height": 1536,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar1.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/sponzor_cedar1.webp"
               }
             ]
           }
@@ -143,17 +143,17 @@
                 "height": 3072
         },
         "img": {
-          "mimeType": "image/jpeg",
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.jpg"
+          "mimeType": "image/webp",
+          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.webp"
         },
         "sources": [
           {
-            "mimeType": "image/jpeg",
+            "mimeType": "image/webp",
             "sizes": [
               {
                 "width": 4096,
                 "height": 3072,
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.jpg"
+                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/Sponsors/otrokovice.webp"
               }
             ]
           }
