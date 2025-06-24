@@ -1,2 +1,5 @@
 User-agent: *
 Disallow:
+User-agent: Googlebot-Image
+Disallow: /images/*
+Disallow: /cm-safran/amerika/assets/images/*
