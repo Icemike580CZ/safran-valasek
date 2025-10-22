@@ -16,7 +16,7 @@
         },
         "img": { // obrázek
           "mimeType": "image/jpeg", // typ obrázku
-          "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/" // zdroj
+          "src": "https://safranvalasek.cz/cm-safran/amerika/assets/images/" // zdroj
         },
         "sources": [ // zdroje
           // začátek zdroje
@@ -26,7 +26,7 @@
               {
                 "width": 1536, // šířka
                 "height": 2048, // výška
-                "src": "https://safranvalasek.live/cm-safran/amerika/assets/images/" // zdroj
+                "src": "https://safranvalasek.cz/cm-safran/amerika/assets/images/" // zdroj
               }
             ]
           }
