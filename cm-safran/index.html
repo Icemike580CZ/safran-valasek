@@ -156,7 +156,7 @@
 
 														<div class="ci-mail">
 															<span><a
-																	href="mailto:2014cimbal%40gmail.com">2014cimbal@gmail.com</a></span>
+																	href="mailto:cmsafranzlin%40gmail.com">2014cimbal@gmail.com</a></span>
 														</div>
 														<div class="ci-phone">
 															<span><a href="tel:+420723248366">+420 723 248
@@ -584,7 +584,7 @@
 																		<picture><img id="wnd_ImageBlock_420005236_img"
 																				src="/images/Extras/Složení/Šafrán/michal_hes.jpg"
 																				alt="" width="700" height="466"
-																				loading="lazy" style=""></picture>
+																				loading="lazy" style="" onclick="g(event)"></picture>
 																	</div>
 																</div>
 															</div>
@@ -781,7 +781,7 @@
 																	fotografií naleznete na:</strong></font>
 														</h1>
 													</div>
-												</div>
+												</div>-->
 												<div class="cw cf">
 													<div class="cw-c cf">
 														<div class="c cf" style="width:50%;">
@@ -792,7 +792,7 @@
 																		<a class="b-btn-l"
 																			href="https://www.instagram.com/cm_safran"
 																			rel="nofollow" target="_blank">
-																			<span class="b-btn-t">Instagramu</span>
+																			<span class="b-btn-t">Instagram</span>
 																		</a>
 																	</div>
 																</div>
@@ -806,14 +806,14 @@
 																		<a class="b-btn-l"
 																			href="https://www.facebook.com/ValasekZlin"
 																			rel="nofollow" target="_blank">
-																			<span class="b-btn-t">Facebooku</span>
+																			<span class="b-btn-t">Facebook</span>
 																		</a>
 																	</div>
 																</div>
 															</div>
 														</div>
 													</div>
-												</div>-->
+												</div>
 											</div>
 										</div>
 									</div>
@@ -1387,7 +1387,8 @@
 						style="background-image:url('/images/Extras/Mandatory/02ei6g.png')"></div>
 					<div class="copyright">
 						© Copyright <strong><span class="invisible a">Cimbálová muzika Valášek Zlín, z.
-									s.</span></strong> <br> Všechna práva vyhrazena. <br> <span style="font-size: 0; display:none">Vytvořeno službou <a href="https://www.webnode.cz/" rel="noopener nofollow">Webnode</a></span>
+									s.</span></strong> <span style="font-size: 0;">Vytvořeno službou <a href="https://www.webnode.cz/" rel="noopener nofollow">Webnode</a></span>
+									<br> Všechna práva vyhrazena. <br>
 					</div>
 				</div>
 			</footer>
@@ -1400,7 +1401,7 @@
 		<div class="cb-bar cb-scrollable">
 			<div class="cb-bar-c">
 				<div class="cb-bar-text">Používáme cookies, abychom zajistili správné fungování a bezpečnost našich
-					stránek. Tím vám můžeme zajistit tu nejlepší zkušenost při jejich návštěvě.<span style="font-size: 0">Vytvořeno službou <a href="https://www.webnode.cz/" rel="noopener nofollow">Webnode</a></span></div>
+					stránek.<span style="font-size: 0">Vytvořeno službou <a href="https://www.webnode.cz/" rel="noopener nofollow">Webnode</a></span> Tím vám můžeme zajistit tu nejlepší zkušenost při jejich návštěvě.</div>
 				<div class="cb-bar-buttons">
 					<button class="cb-button cb-close-basic" data-action="accept-necessary">
 						<span class="cb-button-content">Přijmout nezbytné</span>
@@ -1459,6 +1460,9 @@
 		}
 		function f(e) {
 			let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join(""); let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; path += name + ".jpg"; e.target.src = path; document.getElementById("mh").innerText = document.getElementById("mh").innerText.split("").reverse().join("");
+		}
+		function g(e) {
+			let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0]; let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; path += name.split("").reverse().join("") + ".jpg"; e.target.src = path;
 		}</script>
 </body>
 
