@@ -1,171 +1,251 @@
-/*--------------------------------------------------------------
-# Back to top button
---------------------------------------------------------------*/
-.back-to-top {
-  position: fixed;
-  visibility: hidden;
-  opacity: 0;
-  right: 15px;
-  bottom: 15px;
-  z-index: 996;
-  width: 44px;
-  height: 44px;
-  border-radius: 50px;
-  transition: all 0.4s;
-  border: 2px solid #724fa1;
+/* ==========================================================================
+   ZÁKLADNÍ NASTAVENÍ A PROMĚNNÉ
+   ========================================================================== */
+:root {
+    --primary: #5b25b3f2;    /* Tmavě modrá pro Šafrán */
+    --accent: #c5a059;     /* Zlatá šafránová */
+    --light: #f8f9fa;
+    --dark: #121212;
+    --white: #ffffff;
 }
 
-.back-to-top i {
-  font-size: 28px;
-  color: #724fa1;
-  line-height: 0;
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--dark);
+    line-height: 1.6;
+    margin: 0;
+    padding-top: 80px; /* Odsazení kvůli fixní horní liště */
 }
 
-.back-to-top:hover {
-  background: #724fa1;
-  color: #1a1814;
+h1, h2, h3, .nav-link {
+    font-family: 'Alegreya', serif;
+    font-weight: 700;
 }
 
-.back-to-top:hover i {
-  color: #444444;
+/* Zabrání přetékání obsahu do stran */
+section {
+    overflow: hidden;
 }
 
-.back-to-top.active {
-  visibility: visible;
-  opacity: 1;
-}
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
-#footer {
-  background: black;
-  padding: 0 0 30px 0;
-  color: #fff;
-  font-size: 14px;
+/* ==========================================================================
+   NAVIGAČNÍ LIŠTA
+   ========================================================================== */
+.navbar {
+    background-color: var(--primary) !important;
+    padding: 0.8rem 0;
 }
 
-#footer .footer-top {
-  /*background: #0c0b09;
-  border-top: 1px solid #37332a;
-  border-bottom: 1px solid #28251f;*/
-  padding: 60px 0 30px 0;
-  position: sticky;
-  z-index: 2;
+.nav-link {
+    color: var(--white) !important;
+    font-size: 1.1rem;
+    margin: 0 10px;
+    transition: 0.3s ease;
 }
 
-#footer .footer-top .footer-info {
-  margin-bottom: 30px;
+.nav-link:hover {
+    color: var(--accent) !important;
 }
 
-#footer .footer-top .footer-info h3, #footer .footer-top .footer-links h4 {
-  /*font-size: 24px;*/
-  margin: 0 0 20px 0;
-  padding: 2px 0 2px 0;
-  /*line-height: 1;
-  font-weight: 300;*/
-  text-transform: uppercase;
-  /*font-family: "Poppins", sans-serif;*/
-  font-family: Playfair Display Flex,Playfair-Display-Fallback,Apple Color Emoji,Noto Color Emoji,serif;
-  font-weight: bold;
+/* ==========================================================================
+   HERO SEKCE ŠAFRÁN
+   ========================================================================== */
+.hero {
+    height: 60vh;
+    min-height: 400px;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                url('../images/safran/spolecna_skola.jpg') no-repeat;
+    background-position: top center; /* Fotka začne nahoře, aby nebyly useknuté hlavy */
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: var(--white);
+    margin-bottom: 2rem;
 }
 
-#footer .footer-top .footer-info p {
-  font-size: 14px;
-  /*line-height: 24px;*/
-  margin-bottom: 0;
-  /*font-family: "Playfair Display", serif;*/
-  color: #fff;
+/* ==========================================================================
+   HERO SEKCE VALÁŠEK
+   ========================================================================== */
+
+
+/* Pokud chceš, aby písmo v menu bylo na fotce lépe vidět */
+.navbar-valasek {
+    background: rgba(26, 35, 126, 0.9) !important;
+    backdrop-filter: blur(10px);
 }
 
-#footer .footer-top .social-links a {
-  font-size: 24px;
-  display: inline-block;
-  /*background: #28251f;*/
-  color: #fff;
-  /*line-height: 1;*/
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 50%;
-  text-align: center;
-  width: 36px;
-  height: 36px;
-  transition: 0.3s;
+
+/* ==========================================================================
+   KARTY HUDEBNÍKŮ (Opravený ořez hlav)
+   ========================================================================== */
+.member-card {
+    text-align: center;
+    margin-bottom: 2rem;
 }
 
-#footer .footer-top .social-links a:hover {
-  /*background: #cda45e;*/
-  color: #724fa1;
-  text-decoration: none;
+.member-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top; /* Ořez se zaměří na horní část fotky */
+    border-radius: 50%;
+    border: 5px solid var(--light);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, border-color 0.3s ease;
+    cursor: pointer;
 }
 
-#footer .footer-top h4 {
-  /*font-size: 16px;*/
-  font-weight: 600;
-  color: #fff;
-  position: relative;
-  padding-bottom: 12px;
+.member-card img:hover {
+    transform: scale(1.05);
+    border-color: var(--accent);
 }
 
-#footer .footer-top .footer-links {
-  margin-bottom: 30px;
+/* ==========================================================================
+   FOTOGALERIE
+   ========================================================================== */
+.gallery-grid {
+    padding: 20px 0;
 }
 
-#footer .footer-top .footer-links ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.gallery-grid img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: 0.3s ease;
 }
 
-#footer .footer-top .footer-links ul i {
-  padding-right: 2px;
-  color: #724fa1;
-  /*font-size: 18px;
-  line-height: 1;*/
+.gallery-grid img:hover {
+    filter: brightness(75%);
 }
 
-#footer .footer-top .footer-links ul li {
-  padding: 15px 0;
-  display: flex;
-  align-items: center;
+/* ==========================================================================
+   SLIDER SPONZORŮ (OPRAVA CENTROVÁNÍ)
+   ========================================================================== */
+.sponzor-slider, 
+.sponzor-slider-reverse {
+    width: 100%;
+    overflow: hidden;
+    background: var(--white);
+    padding: 10px 0;
+    white-space: nowrap;
 }
 
-#footer .footer-top .footer-links ul li:first-child {
-  padding-top: 0;
+.sponzor-track, 
+.sponzor-track-reverse {
+    display: inline-flex;
+    align-items: center;
+    width: max-content;
 }
 
-#footer .footer-top .footer-links ul a {
-  color: #fff;
-  transition: 0.3s;
-  display: inline-block;
-  /*line-height: 1;*/
+/* Animace první řady (doleva) */
+.sponzor-track {
+    animation: scroll-left 40s linear infinite;
 }
 
-#footer .footer-top .footer-links ul a:hover {
-  color: #724fa1;
+/* Animace druhé řady (doprava) */
+.sponzor-track-reverse {
+    animation: scroll-right 40s linear infinite;
 }
 
-#footer .copyright {
-  text-align: center;
-  padding-top: 30px;
-  position: sticky;
-  z-index: 2;
-  color: #000;
-  font-size: 14px;
+.sponzor-track img, 
+.sponzor-track-reverse img {
+    width: 150px !important;
+    height: auto;
+    max-height: 80px;
+    object-fit: contain;
+    margin: 0 40px;
+    filter: grayscale(100%);
+    opacity: 0.6;
+    transition: 0.4s ease;
 }
 
-#footer .copyright a {
-  color: #724fa1;
+.sponzor-track img:hover, 
+.sponzor-track-reverse img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+    transform: scale(1.1);
 }
 
-#footer .bg-overlap {
-  position: sticky;
-  z-index: 3;
+/* Definice plynulého pohybu pro 3 sady log */
+@keyframes scroll-left {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(calc(-100% / 3)); }
 }
 
-.si-c a {
-  color: hsla(0,0%,100%,.5);
+@keyframes scroll-right {
+    0% { transform: translateX(calc(-100% / 3)); }
+    100% { transform: translateX(0); }
+}
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+footer {
+    background-color: var(--primary);
+    color: var(--white);
+    padding: 60px 0 30px;
+    margin-top: 4rem;
 }
 
-.slider-1 {
-  margin-top: 50px;
+.social-icons a {
+    font-size: 2.5rem;
+    color: var(--white);
+    margin: 0 15px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: var(--accent);
+}
+
+/* ==========================================================================
+ Styly pro Kalendář
+  ========================================================================== */
+.event-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.event-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(91, 37, 179, 0.1) !important;
+}
+
+.event-date {
+    min-width: 85px;
+    color: #5b25b3; /* Tvoje fialová barva */
+}
+
+.border-primary {
+    border-color: #5b25b3 !important; /* Barva proužku na kraji */
+}
+
+.event-info h4 {
+    color: #333;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 576px) {
+    .event-date {
+        min-width: 65px;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    .event-info {
+        padding-left: 15px !important;
+    }
+}
+
+
+
+/* ==========================================================================
+   MOBILNÍ ÚPRAVY
+   ========================================================================== */
+@media (max-width: 768px) {
+    .hero h1 { font-size: 2.2rem; }
+    .member-card img {
+        width: 150px;
+        height: 150px;
+    }
 }
