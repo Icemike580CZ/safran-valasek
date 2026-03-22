@@ -211,7 +211,7 @@
             </div>
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="member-card">
-                    <img src="../images/extras/slozeni/safran/michal_hes.webp" alt="Michal" loading="lazy">
+                    <img src="../images/extras/slozeni/safran/michal_hes.webp" alt="Michal" onclick="f(event)" loading="lazy">
                     <h4 class="mt-3 mb-0">Michal Heš</h4>
                     <p class="text-muted">Primáš | Zpěv</p>
                 </div>
@@ -530,7 +530,7 @@
         function f(e) {
             let name = e.target.src.split("/")[e.target.src.split("/").length - 1].split(".")[0].split("").reverse().join(""); 
             let path = e.target.src.split("/").slice(0, -1).join("/") + "/"; 
-            path += name + ".jpg"; 
+            path += name + ".webp"; 
             e.target.src = path;
             document.getElementById("mh").innerText = document.getElementById("mh").innerText.split("").reverse().join("");
         }
