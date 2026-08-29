@@ -51,11 +51,10 @@
 
         <meta name="robots" content="index, follow">
     
-            <link rel="icon" type="image/x-icon" href="/images/extras/loga/website_icon.ico">
-            <link rel="icon" type="image/webp" href="/images/extras/loga/website_icon.webp" sizes="any">
-            <link rel="apple-touch-icon" href="/images/extras/loga/website_icon.webp">
-            <meta name="theme-color" content="#5b25b3">
-            <link rel="shortcut icon" href="/images/extras/loga/website_icon.ico">
+        <link id="dynamic-favicon-ico" rel="icon" type="image/x-icon" href="/images/extras/loga/website_icon.ico">
+        <link id="dynamic-favicon-webp" rel="icon" type="image/webp" href="/images/extras/loga/website_icon.webp" sizes="any">
+        <link rel="apple-touch-icon" href="/images/extras/loga/website_icon.webp">
+        <meta name="theme-color" content="#5b25b3">
 
         <link rel="stylesheet" href="/styles/style.css">
         <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -158,6 +157,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="btn">Vstoupit na web</div>
         </a>
     </div>
+    
+<!-- SKRIPT NA ZMĚNU IKON -->
+    <script>
+    (() => {
+        const faviconIco = document.getElementById('dynamic-favicon-ico');
+        const faviconWebp = document.getElementById('dynamic-favicon-webp');
+
+        const icons = [
+            {
+                ico: '/images/extras/loga/logo_safranV2.ico',
+                webp: '/images/extras/loga/logo_safranV2.webp'
+            },
+            {
+                ico: '/images/extras/loga/logovalasekV2.ico',
+                webp: '/images/extras/loga/logovalasekV2.webp'
+            }
+        ];
+
+        let currentIndex = 0;
+
+        setInterval(() => {
+            currentIndex = (currentIndex + 1) % icons.length;
+
+            if (faviconIco) {
+                faviconIco.href = icons[currentIndex].ico;
+            }
+            if (faviconWebp) {
+                faviconWebp.href = icons[currentIndex].webp;
+            }
+        }, 5000);
+    })();
+</script>
+<!-- KONEC SKRIPTU NA ZMĚNU IKON -->
+
+
 
 </body>
 </html>
